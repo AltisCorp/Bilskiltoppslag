@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, Main!</string>
     <string name="app_name">Bilskiltoppslag</string>
+    <string name="sms_nr">2282</string>
+    <!-- Main Form Strings -->
+    <string name="button_submit">Submit</string>
+    <string name="option_about">About</string>
 </resources>
