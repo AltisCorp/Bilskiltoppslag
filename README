@@ -1,0 +1,8 @@
+Bilskiltoppslag
+
+--- Description --
+This app acts as a wrapper around the SMS-Based licence plate information service provided by Vegvesenet in Norway.
+
+ The service is relatively unknown, and anything based on SMS is a poor solution in my opinion, so by creating this app at least the information can be presented in a better matter. 
+
+Additional features will be implemented.
