@@ -4,4 +4,9 @@
     <!-- Main Form Strings -->
     <string name="button_submit">Slå opp</string>
     <string name="option_about">Om</string>
+    
+    <string name="success_title">Forespørsel sendt</string>
+    <string name="success_text">Forespørselen er sendt. Du vil få svar om få strakser</string>
+    <string name="ok">OK</string>
+    <string name="invalid_license">Ugyldig registreringsnummer, prøv igjen</string>
 </resources>

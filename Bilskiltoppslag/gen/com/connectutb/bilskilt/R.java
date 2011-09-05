@@ -30,7 +30,11 @@ public final class R {
  Main Form Strings 
          */
         public static final int button_submit=0x7f040002;
+        public static final int invalid_license=0x7f040007;
+        public static final int ok=0x7f040006;
         public static final int option_about=0x7f040003;
         public static final int sms_nr=0x7f040001;
+        public static final int success_text=0x7f040005;
+        public static final int success_title=0x7f040004;
     }
 }

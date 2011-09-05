@@ -9,7 +9,8 @@
     android:layout_height="wrap_content" 
     android:id="@+id/regEdit" 
     android:layout_centerVertical="true"
-    android:layout_width="match_parent" 
+    android:layout_width="match_parent"
+    android:inputType="textCapCharacters"
     android:layout_toLeftOf="@+id/imageButton_Submit">
     </EditText>
     <ImageButton android:src="@drawable/xfmail"

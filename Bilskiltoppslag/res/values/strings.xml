@@ -2,7 +2,14 @@
 <resources>
     <string name="app_name">Bilskiltoppslag</string>
     <string name="sms_nr">2282</string>
+    
+    
     <!-- Main Form Strings -->
     <string name="button_submit">Submit</string>
     <string name="option_about">About</string>
+    
+    <string name="success_title">Success</string>
+    <string name="success_text">Submission successful</string>
+    <string name="ok">OK</string>
+    <string name="invalid_license">Invalid license plate</string>
 </resources>
